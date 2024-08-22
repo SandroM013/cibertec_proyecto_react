@@ -1,0 +1,246 @@
+{
+    "sections": [
+      {
+        "id": "Papromo",
+        "title": "Paquetes promocionales",
+        "items": [
+          {
+            "image": "src/imagenes/pack boda 1.jpg",
+            "caption": "Paquete básico Boda",
+            "description": "Maquillaje, peinado, uñas, pestaña, depilación de cejas"
+          },
+          {
+            "image": "src/imagenes/pack novia 2.jpg",
+            "caption": "Paquete premium Boda",
+            "description": "Maquillaje, peinado, uñas, pestaña, depilación corporal, spa"
+          },
+          {
+            "image": "src/imagenes/fiesta.jpg",
+            "caption": "Paquete fiesta",
+            "description": "Peinado, maquillaje, manicure"
+          }
+        ]
+      },
+      {
+        "id": "shamp",
+        "title": "Shampoos",
+        "items": [
+          {
+            "image": "src/imagenes/american daily.jpeg",
+            "caption": "American Crew -Daily Deep Moisturinzing",
+            "price": "S/73.00"
+          },
+          {
+            "image": "src/imagenes/detox.jpg",
+            "caption": "American Crew -Detox",
+            "price": "S/77.00"
+          },
+          {
+            "image": "src/imagenes/biotop 007.jpg",
+            "caption": "Biotop Keratin 007 Impact Shampoo",
+            "price": "S/108.00"
+          },
+          {
+            "image": "src/imagenes/proactive.jpg",
+            "caption": "Biotop Pro Active 69 Shampoo",
+            "price": "S/178.00"
+          },
+          {
+            "image": "src/imagenes/kerastase bain.jpg",
+            "caption": "Kerastase-Bain Anti-pelliculaire",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/densite.jpg",
+            "caption": "Kerastase-Bain Densite",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/blon.jpg",
+            "caption": "Kerastase-Blond Absolu-Bain Lumiere",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/exten.jpg",
+            "caption": "Kerastase – Bain Extentioniste",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/homme.jpg",
+            "caption": "Kerastase – Bain Densite Homme",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/bain.jpg",
+            "caption": "Kerastase-Bain Riche Dermo Calm",
+            "price": "S/122.00"
+          },
+          {
+            "image": "src/imagenes/flide.jpg",
+            "caption": "Kerastase-Bain Fluidealiste Sin Sulfato",
+            "price": "S/122.00"
+          }
+        ]
+      },
+      {
+        "id": "acondi",
+        "title": "Acondicionadores",
+        "items": [
+          {
+            "image": "src/imagenes/biotopkeratin.jpg",
+            "caption": "Biotop-Keratin 007 Impact Conditioner",
+            "price": "S/118.00"
+          },
+          {
+            "image": "src/imagenes/KERASTASE.png",
+            "caption": "Kerastase-Chroma Absolu-Fondant Cica Chroma",
+            "price": "S/167.00"
+          },
+          {
+            "image": "src/imagenes/manifesto.jpg",
+            "caption": "Kerastase-Curl Manifesto-Fondant Hydratation Essentielle",
+            "price": "S/162.00"
+          },
+          {
+            "image": "src/imagenes/olaplex.jpg",
+            "caption": "Olaplex-#5 Bond Maintenance Conditioner",
+            "price": "S/132.00"
+          },
+          {
+            "image": "src/imagenes/elixir.jpg",
+            "caption": "Kerastase-Fondant Elixir Ultime",
+            "price": "S/167.00"
+          },
+          {
+            "image": "src/imagenes/fondant.jpg",
+            "caption": "Kerastase-Fondant Fluidealiste",
+            "price": "S/167.00"
+          },
+          {
+            "image": "src/imagenes/lait.jpg",
+            "caption": "Kerastase-Lait Vital",
+            "price": "S/148.00"
+          },
+          {
+            "image": "src/imagenes/moroccanil.jpg",
+            "caption": "Moroccanoil-Moisture Repair Conditioner",
+            "price": "S/110.00"
+          }
+        ]
+      },
+      {
+        "id": "crem",
+        "title": "Cremas capilares",
+        "items": [
+          {
+            "image": "src/imagenes/hair soufle.jpg",
+            "caption": "Biotop Pro Active 69 Hair Soufle",
+            "price": "S/190.00"
+          },
+          {
+            "image": "src/imagenes/curl.jpg",
+            "caption": "Kerastase-Curl Manifesto-Refresh Absolu",
+            "price": "S/154.00"
+          },
+          {
+            "image": "src/imagenes/cremaparapeinarhidratante.jpg",
+            "caption": "Moroccanoil-Crema Para Peinar Hidratante",
+            "price": "S/190.00"
+          },
+          {
+            "image": "src/imagenes/extremeantisnap.jpg",
+            "caption": "Redken-Extreme Anti-snap",
+            "price": "S/139.00"
+          }
+        ]
+      },
+      {
+        "id": "ace",
+        "title": "Aceites",
+        "items": [
+          {
+            "image": "src/imagenes/serum.jpg",
+            "caption": "Biotop Keratin 007 Serum",
+            "price": "S/210.00"
+          },
+          {
+            "image": "src/imagenes/8h.png",
+            "caption": "Kerastase-8H Magic Night Serum",
+            "price": "S/158.00"
+          },
+          {
+            "image": "src/imagenes/huile curl.jpg",
+            "caption": "Kerastase-Curl Manifesto-Huile Sublime Repair",
+            "price": "S/161.00"
+          },
+          {
+            "image": "src/imagenes/huile.jpg",
+            "caption": "Kerastase-Elixir Ultime Huile Sublime Rose",
+            "price": "S/186.00"
+          },
+          {
+            "image": "src/imagenes/perfurm.jpg",
+            "caption": "Kerastase-Parfum En Huile Chronologiste",
+            "price": "S/245.00"
+          },
+          {
+            "image": "src/imagenes/loreal metal.jpg",
+            "caption": "Loreal-Metal Detox Serum",
+            "price": "S/186.00"
+          },
+          {
+            "image": "src/imagenes/ultime.jpg",
+            "caption": "Kerastase – Elixir Ultime – L’huile Originale",
+            "price": "S/139.00"
+          },
+          {
+            "image": "src/imagenes/jeunesse.jpg",
+            "caption": "Kerastase – Serum Jeunesse",
+            "price": "S/228.00"
+          },
+          {
+            "image": "src/imagenes/therapiste.jpg",
+            "caption": "Kerastase-Serum Therapiste",
+            "price": "S/206.00"
+          },
+          {
+            "image": "src/imagenes/quinoa.jpg",
+            "caption": "Biotop Quinoa 911 Serum",
+            "price": "S/210.00"
+          }
+        ]
+      },
+      {
+        "id": "masc",
+        "title": "Mascarillas",
+        "items": [
+          {
+            "image": "src/imagenes/hair mask.jpg",
+            "caption": "Biotop – Pro Active 69 Hair Mask",
+            "price": "S/231.00"
+          },
+          {
+            "image": "src/imagenes/quino mask.jpg",
+            "caption": "Biotop Quinoa 911 Hair Mask",
+            "price": "S/189.00"
+          },
+          {
+            "image": "src/imagenes/violet.jpg",
+            "caption": "Kerastase – Blond Absolu – Masque Ultra Violet",
+            "price": "S/213.00"
+          },
+          {
+            "image": "src/imagenes/loreal mask.jpg",
+            "caption": "Loreal – Metal Detox Mascarilla",
+            "price": "S/107.00"
+          },
+          {
+            "image": "src/imagenes/masque.jpg",
+            "caption": "Kerastase -masque Densite",
+            "price": "S/107.00"
+          }
+        ]
+      }
+    ]
+  }
+  
