@@ -1,0 +1,38 @@
+footer{
+    background-color:black;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer h3 {
+    padding: 10px;
+}
+footer .cero {
+    padding: 30px 40px;
+}
+footer .uno {
+    padding: 30px 40px;
+}
+footer .dos {
+    padding: 30px 40px;
+    width: 300px;
+}
+footer .tres {
+    padding: 30px 40px;
+}
+footer .tres img {
+    width: 50px;
+    border-radius: 25px;
+}
+.cuatro a img {
+    width: 130px;
+    margin-top: 30px;
+    border-radius: 500px;
+}
+
+p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

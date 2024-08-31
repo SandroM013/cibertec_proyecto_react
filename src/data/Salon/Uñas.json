@@ -1,0 +1,18 @@
+{
+    "section": "Uñas",
+    "services": [
+      {
+        "id": "CC1",
+        "num":1,
+        "title": "Manicure",
+        "description": "¡Luce uñas perfectas! Con este servicio cuidamos de tus uñas y les damos estilo."
+      },
+      {
+        "id": "CC2",
+        "num":2,
+        "title": "Pedicure",
+        "description": "¡Embellece tus pies! Brinda a tus pies el mismo cuidado que a tus manos."
+      }
+    ]
+  }
+  

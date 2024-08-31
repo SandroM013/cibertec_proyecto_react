@@ -1,0 +1,29 @@
+[
+    {
+      "imgSrc": "src/imagenes/lasiados.png",
+      "altText": "Faciales",
+      "title": "Faciales Personalizados",
+      "description": {
+        "strongText": "No hay dos caras iguales.",
+        "text": "Lo conocemos a usted y a su piel para diseñar el Tratamiento adecuado que lo ayude a alcanzar sus objetivos de cuidado de Piel"
+      }
+    },
+    {
+      "imgSrc": "src/imagenes/selecionados.png",
+      "altText": "Productos Seleccionados",
+      "title": "Productos Selecionados",
+      "description": {
+        "strongText": "Lo que usas importa.",
+        "text": "Los ingredientes son la base del cuidado de la Piel, por eso te educamos y recomendamos los mejores productos"
+      }
+    },
+    {
+      "imgSrc": "src/imagenes/Expertos.png",
+      "altText": "Asesoramiento",
+      "title": "Asesoramiento de Expertos",
+      "description": {
+        "strongText": "El cuidado de la piel es nuestra obsesión.",
+        "text": "Somos un equipo de estilistas con licencia que están ansiosos por compartir lo que sabemos con usted."
+      }
+    }
+]

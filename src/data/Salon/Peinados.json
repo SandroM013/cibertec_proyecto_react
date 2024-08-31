@@ -1,0 +1,42 @@
+{
+    "section": "Peinados y cortes",
+    "services": [
+      {
+        "id": "CB1",
+        "num": 1,
+        "title": "Cepillado",
+        "description": "Diferentes resultados, llévalo liso, con volumen, puntas hacia dentro o afuera, con ondas o con movimiento. ¡Tú eliges!"
+      },
+      {
+        "id": "CB2",
+        "num": 2,
+        "title": "Cola",
+        "description": "¡Un peinado reinventado! Te hará lucir perfecta para cualquier ocasión."
+      },
+      {
+        "id": "CB3",
+        "num": 3,
+        "title": "Peinado de novias",
+        "description": "Peinados con toques glamurosos para que luzcas fabulosa. ¡Tú eliges con tocado o sin él!"
+      },
+      {
+        "id": "CB4",
+        "num": 4,
+        "title": "Recogido o moño",
+        "description": "Peinado sofisticado y elegante. Elige el que deseas lucir: alto, pulido, clásico, trenzado o despeinado."
+      },
+      {
+        "id": "CB5",
+        "num": 5,
+        "title": "Cortes bob",
+        "description": "El peinado más demandado y en tendencia, ideal para rostros delgados y cuellos largos."
+      },
+      {
+        "id": "CB6",
+        "num": 6,
+        "title": "Corte niña o niño",
+        "description": "Cortes para el pequeño o pequeña de la casa."
+      }
+    ]
+  }
+  

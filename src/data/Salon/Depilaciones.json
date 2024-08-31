@@ -1,0 +1,24 @@
+{
+    "section": "Depilaciones",
+    "services": [
+      {
+        "id": "CE1",
+        "num":1,
+        "title": "Depilaciones con cera",
+        "description": "Retarda la aparición de bellos con esta técnica y luce una piel brillante."
+      },
+      {
+        "id": "CE2",
+        "num":2,
+        "title": "Depilaciones con hilo",
+        "description": "Técnica de depilación facial precisa y con resultados sorprendentes."
+      },
+      {
+        "id": "CE3",
+        "num":3,
+        "title": "Depilaciones con banda y cera al frío",
+        "description": "Técnica de depilación con banda de tela descartable y cera al frío."
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+{
+    "section": "Maquillaje",
+    "services": [
+      {
+        "id": "CA1",
+        "num": 1,
+        "title": "Maquillaje para eventos",
+        "description": "¡Dale color a tu rostro! Usamos diferentes técnicas y colores dependiendo del tipo de evento al que asistas."
+      },
+      {
+        "id": "CA2",
+        "num": 2,
+        "title": "Maquillaje para novias",
+        "description": "¡Maquillaje especial para un día especial! Buscamos que luzcas deslumbrante y satisfecha en tus momentos más especiales."
+      },
+      {
+        "id": "CA3",
+        "num": 3,
+        "title": "Maquillaje de ojos",
+        "description": "¡Miradas que impacten! Buscamos resaltar los ojos de acuerdo a los gustos y preferencias del cliente."
+      },
+      {
+        "id": "CA4",
+        "num": 4,
+        "title": "Colocación de pestañas",
+        "description": "¡Aporta volumen a tus pestañas! Con la técnica de pelo a pelo renueva tus pestañas."
+      }
+    ]
+  }
+  

@@ -1,0 +1,34 @@
+.sectionI1 {
+    background-color:white;
+    display: flex;
+    align-items: center;
+    border: 10px solid white;
+}
+.sectionI1 .presentacion{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.sectionI1 .presentacion img{
+    width: 700px;
+    margin-right: 35px;
+    margin-left: 0%;
+    font-size: 100px;
+    border-radius: 50px;
+}
+
+.sectionI1 .presentacion .informacion{
+    padding: 10px;
+    width: 350px;
+    line-height: 35px;
+    font-size: 30px;
+    text-align: justify;
+}
+
+.sectionI1 .presentacion .informacion h1{
+    font-size: 30px;
+    margin-top:10px;
+    margin-left: 0px;
+    color: rgb(245, 21, 167);
+}

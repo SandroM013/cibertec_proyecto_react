@@ -1,0 +1,36 @@
+{
+    "section": "Color",
+    "services": [
+      {
+        "id": "CD1",
+        "num":1,
+        "title": "Babylights",
+        "description": "Recrea el brillo natural con un toque luminoso en tu cabello."
+      },
+      {
+        "id": "CD2",
+        "num":2,
+        "title": "Iluminaciones",
+        "description": "Ilumina tu cabello sin comprometer el cuero cabelludo."
+      },
+      {
+        "id": "CD3",
+        "num":3,
+        "title": "Mechas balayage",
+        "description": "Distribución y degradado uniforme de la luz y brillo del color."
+      },
+      {
+        "id": "CD4",
+        "num":4,
+        "title": "Retoques de raíces",
+        "description": "Mantiene el aspecto cano del cabello aportándole toques grises."
+      },
+      {
+        "id": "CD5",
+        "num":5,
+        "title": "Cambio de color",
+        "description": "Adquiere protagonismo con la última tendencia en color."
+      }
+    ]
+  }
+  

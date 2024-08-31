@@ -1,0 +1,35 @@
+.sectionI2 {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border: 20px ;
+    background-color: antiquewhite;
+}
+
+.sectionI2 article {
+    width: 30%;
+    justify-content: center;
+    text-align: center;
+    margin: 25px;
+    padding: 15px;
+}
+
+.sectionI2 article img {
+    width: 95%;
+    font-size: 300px;
+}
+.sectionI2 article p {
+    text-align: justify;
+    font-family: Verda;
+    font-size: 20px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+
+.sectionI2 h2 {
+    width: 100%;
+    display: block;
+    background-color:  rgba(245, 178, 154,0.6);
+    border-radius: 10px;
+}

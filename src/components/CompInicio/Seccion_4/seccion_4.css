@@ -1,0 +1,21 @@
+section.mision-vision {
+    width: 100%;
+    padding: 50px 20px;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+.mision {
+    width: 500px;
+    border: 10px  rgba(245, 178, 154,0.6) double;
+    padding: 10px;
+    margin: 10px;
+}
+
+.vision {
+  width: 500px;
+  border: 10px  rgba(245, 178, 154,0.6) double;
+  padding: 10px;
+  margin: 10px;
+}

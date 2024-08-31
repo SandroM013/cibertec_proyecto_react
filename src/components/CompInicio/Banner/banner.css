@@ -1,0 +1,12 @@
+.header-contentI1 {
+    background-image: url(src/imagenes/Banner\ Letty\ Salon\ &\ Spa.jpg);
+    border-radius: 10px;
+    line-height: 30px;
+    min-height: 640px;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    margin: 80px 0 0 0px;
+}

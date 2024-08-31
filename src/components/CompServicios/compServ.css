@@ -1,0 +1,117 @@
+.header-contentP {
+    border-radius: 10px;
+    line-height: 30px;
+    min-height: 550px;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+    background-image: url(src/imagenes/servicios\ de\ belleza.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 80px 0 0 0px;
+}
+.header-contentP .texto {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.header-contentP .texto h1 {
+    font-size: 70px;
+    margin-right: 150px;
+    margin-top: 130px;
+}
+.header-contentP .texto p {
+    max-width: 400px;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    font-weight: 50;
+    font-size: 20px;
+    padding: 10px;
+}
+.header-contentP .texto a {
+    margin-right: 150px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.header-contentP .texto a:hover {
+    color: coral;
+}
+.serviceP {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding-top: 17px;
+    padding-bottom: 30px;
+}
+.serviceP a {
+    text-align: center;
+    font-size: 23px;
+    margin: 15px 50px 0 50px; 
+}
+.serviceP .boton1 {
+    padding: 10px;
+    border: 3px rgba(245, 178, 154,0.6);
+    border-radius: 15px;
+    background-color: rgba(245, 178, 154,0.6);
+    color: black;
+    text-transform: uppercase;
+}
+.serviceP .boton2 {
+    padding: 10px 20px;
+    border: 3px rgba(245, 178, 154,0.6);
+    border-radius: 15px;
+    background-color: rgba(245, 178, 154,0.6);
+    color:black;
+    text-transform: uppercase;
+}
+.serviceP a:hover {
+    background-color: white;
+    border-color: black;
+    color: coral;
+}
+
+.header-contentBS {
+    border-radius: 10px;
+    line-height: 30px;
+    min-height: 550px;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+    background-image: url(src/imagenes/salon2.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 80px 0 0 0px;
+}
+.header-contentBS .textoBS {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.header-contentBS .textoBS h1 {
+    font-size: 70px;
+    margin-right: 150px;
+    margin-top: 130px;
+}
+.header-contentBS .textoBS p {
+    max-width: 370px;
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    font-weight: 50;
+    font-size: 20px;
+    padding: 10px;
+}
+.header-contentBS .textoBS a {
+    margin-right: 150px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.header-contentBS .textoBS a:hover {
+    color: coral;
+}

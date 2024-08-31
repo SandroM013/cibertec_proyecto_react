@@ -1,0 +1,41 @@
+{
+  "section": "Tratamientos y alisados",
+  "treatments": [
+    {
+      "id": "C1",
+      "num": 1,
+      "title": "Hidratación capilar",
+      "description": "Hidrata, nutre y reconstruye el cabello, aportando brillo y oleosidad"
+    },
+    {
+      "id": "C2",
+      "num": 2,
+      "title": "Botox capilar",
+      "description": "Tratamiento rejuvenecedor, repara cabello dañado y lo fortalece, elimina el frizz y reaviva el color"
+    },
+    {
+      "id": "C3",
+      "num": 3,
+      "title": "Tratamiento Anti Caída",
+      "description": "Fortalece el cuero cabelludo y con una sensación de resistencia, más suelto y sin grasas"
+    },
+    {
+      "id": "C4",
+      "num": 4,
+      "title": "Alisado con keratina",
+      "description": "Devuélvele a tu cabello una textura más suave, lisa y brillante sin maltratarlo en exceso"
+    },
+    {
+      "id": "C5",
+      "num": 5,
+      "title": "Alisado brasilero",
+      "description": "Tratamiento reparador que quita el volumen y el frizz a la vez que repara y nutre a profundidad"
+    },
+    {
+      "id": "C6",
+      "num": 6,
+      "title": "Alisado orgánico",
+      "description": "Apto para todo tipo de cabello, versátil, personalizable y realizado con ingredientes naturales"
+    }
+  ]
+}
