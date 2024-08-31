@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import "./navbar.css";
 
 const rutas = [
   { id: 0, href: "/", title: "Inicio" },

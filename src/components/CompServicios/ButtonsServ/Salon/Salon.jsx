@@ -71,7 +71,7 @@ function Salon() {
       </section>
 
       <section className="element4">
-        <h2 id="peinados">Peinados y Cortes</h2>
+        <h2 id="peinados">Uñas</h2>
         <div className="wrapper">
           <article className="container">
             {dataUñas.map(({ id, num, title, description }) => (
@@ -88,7 +88,7 @@ function Salon() {
       </section>
 
       <section className="element5">
-        <h2 id="peinados">Peinados y Cortes</h2>
+        <h2 id="peinados">Color</h2>
         <div className="wrapper">
           <article className="container">
             {dataColor.map(({ id, num, title, description }) => (
@@ -105,7 +105,7 @@ function Salon() {
       </section>
 
       <section className="element6">
-        <h2 id="peinados">Peinados y Cortes</h2>
+        <h2 id="peinados">Depilaciones</h2>
         <div className="wrapper">
           <article className="container">
             {dataDepilaciones.map(({ id, num, title, description }) => (
